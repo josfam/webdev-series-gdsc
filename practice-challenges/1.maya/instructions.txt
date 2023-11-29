@@ -2,7 +2,8 @@ Replicate, with various html tags, the first three stanzas
 of this poem (https://www.poetryfoundation.org/poems/46446/still-i-rise)
 - Include the title of the poem
 - Link the "MAYA ANGELOU" text in the "BY MAYA ANGELOU" section to 
-Maya Angelou's Wikipedia page (https://en.wikipedia.org/wiki/Maya_Angelou)
+Maya Angelou's Wikipedia page (https://en.wikipedia.org/wiki/Maya_Angelou).
+- When that wikipedia link is clicked, the page should open in a new tab.
 
 Here is the text that is referenced:
 
