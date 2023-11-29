@@ -1,4 +1,4 @@
-Replicate, with various html tags, to replicate the first three stanzas
+Replicate, with various html tags, the first three stanzas
 of this poem (https://www.poetryfoundation.org/poems/46446/still-i-rise)
 - Include the title of the poem
 - Link the "MAYA ANGELOU" text in the "BY MAYA ANGELOU" section to 
