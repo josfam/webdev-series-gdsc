@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+}
+
+form {
+	flex-direction: column;
+	display: flex;
+	width: 40%;
+	height: auto;
+	padding: 0px 30px 30px 30px;
+	background-color: rgb(250, 235, 215);
+	border-radius: 10px;
+}
+
+ul {
+	padding: 0px;
+}
+
+li {
+	list-style: none;
+	margin-top: 15px;
+	font-size: 20px;
+}
+
+input {
+	height: 40px;
+	width: 90%;
+	border-radius: 5px;
+	font-size: 20px;
+	padding-left: 10px;
+}
+
+button {
+	height: 40px;
+	width: 100px;
+	background-color: rgb(255, 92, 160);
+	color: rgb(0, 0, 0);
+	border: none;
+	border-radius: 5px;
+	font-weight: bold;
+	flex-shrink: 0;
+}

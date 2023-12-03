@@ -4,19 +4,25 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Form practice</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<form action="#" method="get">
-		<label for="fname">First name:</label><br>
-		<input autofocus required type="text" placeholder="e.g. Mary" id="fname" name="fname">
-		<br>
-		<label for="pwd">Password:</label>
-		<input required type="password" id="pwd" name="pwd">
-		<br>
-		<label for="email">Email:</label>
-		<input required type="email" id="email" name="email">
-		<br>
-		<button>Submit data</button>
+		<ul>
+			<li class="entry">
+				<label for="fname">First name:</label>
+				<input autofocus required type="text" placeholder="e.g. Mary" id="fname" name="fname">
+			</li>
+			<li class="entry">
+				<label for="pwd">Password:</label>
+				<input required type="password" id="pwd" name="pwd">
+			</li>
+			<li class="entry">
+				<label for="email">Email:</label>
+				<input required type="email" id="email" name="email">
+			</li>
+		</ul>
+		<button>SUBMIT</button>
 	</form>
 </body>
 </html>
