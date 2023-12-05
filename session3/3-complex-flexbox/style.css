@@ -37,3 +37,11 @@ article:nth-of-type(3)
 	flex: 3 200px;
 	flex-flow: column;
 }
+
+article:nth-of-type(3) div:first-child {
+	display: flex;
+	flex: 1;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: space-around;
+}
