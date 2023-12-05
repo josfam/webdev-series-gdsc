@@ -22,3 +22,6 @@ div {
 	border: 1px solid black;
 }
 
+button:nth-of-type(3) {
+	align-self: flex-end;
+}
