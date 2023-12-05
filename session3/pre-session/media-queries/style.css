@@ -1,0 +1,15 @@
+body {
+	background-color: rgb(251, 216, 173); /* default color */
+}
+
+@media screen and (max-width: 320px){
+	body{
+		background-color: rgb(148, 227, 251);
+	}
+}
+
+@media screen and (min-width: 321px) and (max-width: 500px) {
+	body{
+		background-color: pink
+	}
+}
