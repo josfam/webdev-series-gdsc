@@ -14,3 +14,12 @@ header {
 article {
 	background: aqua;
 }
+
+section {
+	display: flex;
+}
+
+article {
+	margin: 10px;
+	padding: 10px;
+}
