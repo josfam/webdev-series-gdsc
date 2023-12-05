@@ -5,3 +5,12 @@ html {
 body {
 	margin: 0;
 }
+
+header {
+	background: purple;
+	height: 100px;
+}
+
+article {
+	background: aqua;
+}
