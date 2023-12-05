@@ -25,3 +25,7 @@ div {
 button:nth-of-type(3) {
 	align-self: flex-end;
 }
+
+button:first-child {
+	order: 1;
+}
