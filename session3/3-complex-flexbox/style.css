@@ -20,3 +20,9 @@ article {
 	padding: 10px;
 	background: aqua;
 }
+
+button {
+	margin: 5px;
+	font-size: 18px;
+	line-height: 1.5;
+}
