@@ -22,9 +22,14 @@ article {
   padding: 10px;
   margin: 10px;
   background: aqua;
+  flex: 1;
+}
+
+article:nth-of-type(3) {
+	flex: 2; /* Twice the width of others */
 }
 
 section {
 	display: flex;
-	flex-direction: column;
+	/* flex-direction: column; */
 }
